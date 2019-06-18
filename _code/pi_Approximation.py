@@ -18,3 +18,13 @@ while True:
     else:
         print(approxPi(val))
 
+
+'''
+Approximates the value of pi to an nth degree using the mathematical series formula for the calculation of pi.
+
+n represents the upper limit of the series in which the series is calculated. 
+
+Second part of code generates a random number between 1 and 100000 and determines if the number is divisible by
+37, if not it runs the code above to that number's accuracy. 
+'''
+

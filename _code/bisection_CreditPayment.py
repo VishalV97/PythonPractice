@@ -19,7 +19,8 @@ def bisec_Credit(balance, annualInterestRate):
 
 print("Lowest Payment:", round(monthlyPayment, 2))
 
-'''The function takes in two floats or integers to calculate the lowest amount of money needed to pay off credit
+'''
+The function takes in two floats or integers to calculate the lowest amount of money needed to pay off credit
 with a fixed monthly payment amount in one year
 
 Calculated using bisection search.

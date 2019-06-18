@@ -21,3 +21,12 @@ while True:
         break
     else:
         print("Sorry, I did not understand your input")
+
+'''
+Guesses a number that user thinks of between 0 and 100(excluding 100) and 'guesses' it using bisection search.
+
+Program will progressively guess a number that is closer to the user's number through regular user key entries to indicate
+the proximity of the guesses made by the program.
+
+There is a sleep time of 5 seconds to give the program a 'feeling' of calculation. 
+'''
